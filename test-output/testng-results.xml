@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Language selected: हिन्दी]]>
+    </line>
+    <line>
+      <![CDATA[Click सहमत हैं और जारी रखें button]]>
+    </line>
+    <line>
+      <![CDATA[Click Add Crop button]]>
+    </line>
+    <line>
+      <![CDATA[Selected Rice Type: बोरो]]>
+    </line>
+    <line>
+      <![CDATA[Selected Growing Period: लंबी]]>
+    </line>
+    <line>
+      <![CDATA[Selected Farm Size: 1–5 एकड़]]>
+    </line>
+    <line>
+      <![CDATA[Click Save button]]>
+    </line>
+    <line>
+      <![CDATA[Reached Tutorial Page: लीफ़ कलर चार्ट का उपयोग कैसे करें]]>
+    </line>
+    <line>
+      <![CDATA[Click Next On Tutorial Page]]>
+    </line>
+    <line>
+      <![CDATA[Click Next On Tutorial Page]]>
+    </line>
+    <line>
+      <![CDATA[Click Start Sampling On Tutorial Page]]>
+    </line>
+    <line>
+      <![CDATA[Tutorial completed!]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 1]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 2]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 3]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 4]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 5]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 6]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 7]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 8]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 9]]>
+    </line>
+    <line>
+      <![CDATA[Leaf Color selected: पत्ती 10 में से 10]]>
+    </line>
+    <line>
+      <![CDATA[Leaves colour selection Completed!]]>
+    </line>
+    <line>
+      <![CDATA[Click YES on Alert popup: क्या आप नमूना लेना बंद करना चाहते हैं?]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89650" started-at="2020-09-13T12:06:13Z" finished-at="2020-09-13T12:07:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89650" started-at="2020-09-13T12:06:13Z" finished-at="2020-09-13T12:07:43Z">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Tests@5c5a1b69]" name="setUp" is-config="true" duration-ms="26919" started-at="2020-09-13T17:36:13Z" finished-at="2020-09-13T17:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddNewCropAndCompleteColourSelectionToGeneratePlantHealthReport()[pri:0, instance:tests.Tests@5c5a1b69]" name="AddNewCropAndCompleteColourSelectionToGeneratePlantHealthReport" duration-ms="58987" started-at="2020-09-13T17:36:40Z" finished-at="2020-09-13T17:37:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Language selected: हिन्दी]]>
+            </line>
+            <line>
+              <![CDATA[Click सहमत हैं और जारी रखें button]]>
+            </line>
+            <line>
+              <![CDATA[Click Add Crop button]]>
+            </line>
+            <line>
+              <![CDATA[Selected Rice Type: बोरो]]>
+            </line>
+            <line>
+              <![CDATA[Selected Growing Period: लंबी]]>
+            </line>
+            <line>
+              <![CDATA[Selected Farm Size: 1–5 एकड़]]>
+            </line>
+            <line>
+              <![CDATA[Click Save button]]>
+            </line>
+            <line>
+              <![CDATA[Reached Tutorial Page: लीफ़ कलर चार्ट का उपयोग कैसे करें]]>
+            </line>
+            <line>
+              <![CDATA[Click Next On Tutorial Page]]>
+            </line>
+            <line>
+              <![CDATA[Click Next On Tutorial Page]]>
+            </line>
+            <line>
+              <![CDATA[Click Start Sampling On Tutorial Page]]>
+            </line>
+            <line>
+              <![CDATA[Tutorial completed!]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 1]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 2]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 3]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 4]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 5]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 6]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 7]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 8]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 9]]>
+            </line>
+            <line>
+              <![CDATA[Leaf Color selected: पत्ती 10 में से 10]]>
+            </line>
+            <line>
+              <![CDATA[Leaves colour selection Completed!]]>
+            </line>
+            <line>
+              <![CDATA[Click YES on Alert popup: क्या आप नमूना लेना बंद करना चाहते हैं?]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddNewCropAndCompleteColourSelectionToGeneratePlantHealthReport -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Tests@5c5a1b69]" name="teardown" is-config="true" duration-ms="3718" started-at="2020-09-13T17:37:39Z" finished-at="2020-09-13T17:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
